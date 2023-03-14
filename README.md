@@ -61,9 +61,9 @@ Skills: C / C++ / JAVA / REACT / JS / HTML / CSS / DJANGO
 [![My Skills](https://skillicons.dev/icons?i=github,ae,androidstudio,angular,autocad,bash,blender,bootstrap,c,cs,css,discord,django,dotnet,eclipse,figma,firebase,flutter,fortran,git,html,idea,ai,instagram,java,js,jquery,kotlin,laravel,latex,linkedin,linux,mongodb,mysql,nodejs,ps,php,pr,py,react,redux,stackoverflow,swift,sketchup,twitter,visualstudio,vscode,wordpress,xd)](https://skillicons.dev)
 
 
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aowshad&langs_count=5&theme=tokyonight)
+![My GitHub Language Stats](https://stats-of-aowshad-m7vo.vercel.app/api/top-langs/?username=aowshad&langs_count=5&theme=tokyonight)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aowshad&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://stats-of-aowshad-m7vo.vercel.app/api?username=aowshad&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=aowshad&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
 
