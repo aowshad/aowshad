@@ -9,7 +9,7 @@
 
 
 ### Hi there 👋, I'm Al Aowshad Himel
-#### I'm a Product Designer & Jr. Front-End Developer
+#### I'm a Product Designer
 
 
 I create products that genuinely connect with users and drive business success. With expertise in e-commerce, SaaS, startups, Shopify apps, and branding, I specialize in designing seamless digital experiences that blend aesthetics with functionality.
