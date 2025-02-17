@@ -10,7 +10,7 @@
 
 
 ### Hi there 👋, I'm Al Aowshad Himel
-#### I'm a UI/UX Designer & Jr. Developer
+#### I'm a Product Designer & Jr. Front-End Developer
 
 
 I am a Professional Graphics Designer. I can design your graphics related work. I have experience more than 3 years. I've completed many projects producing branded artwork, logos, and other creative works. Being a designer is not just a job for me, it’s a passion! My approach to every single project is unique, creative and professional. I will work for you with all my passion and Satisfaction is guaranteed!!! Sounds Interesting? Let's chat :)
