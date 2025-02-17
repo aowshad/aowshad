@@ -13,17 +13,11 @@
 #### I'm a Product Designer & Jr. Front-End Developer
 
 
-I am a Professional Graphics Designer. I can design your graphics related work. I have experience more than 3 years. I've completed many projects producing branded artwork, logos, and other creative works. Being a designer is not just a job for me, it’s a passion! My approach to every single project is unique, creative and professional. I will work for you with all my passion and Satisfaction is guaranteed!!! Sounds Interesting? Let's chat :)
+I create products that genuinely connect with users and drive business success. With expertise in e-commerce, SaaS, startups, Shopify apps, and branding, I specialize in designing seamless digital experiences that blend aesthetics with functionality.
 
-Skills: C / C++ / JAVA / REACT / JS / HTML / CSS / DJANGO
+My approach to Product Design is deeply rooted in user research, wireframing, prototyping, and usability testing, ensuring every design decision is backed by data and user behavior insights. Whether it's a mobile app, website, or dashboard interface, I focus on delivering solutions that are visually compelling, intuitive, and scalable.
 
-- 🔭 I’m currently working on UI/UX and Front-End 😎 
-- 🌱 I’m currently learning HTML,CSS,REACT,JS,DJANGO 😥 
-- 👯 I’m looking to collaborate on who want to be a Designer 🖤 
-- 🤔 I’m looking for help with Senior Developers 👁️‍🗨️ 
-- 💬 Ask me about My Passion 🎯 
-- 📫 How to reach me: knock me on What's App 📤 
-- ⚡ Fun fact: I love to Design 🎨 and Travelling 🌍 
+I stay ahead of the curve by continuously learning and adapting to industry trends, ensuring that my design approach remains innovative and user-centered.
 
 
 <h3 align="left">Connect with me:</h3>
