@@ -6,7 +6,6 @@
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 
-![I'm a UI/UX Designer & Jr. Developer](https://www.linkpicture.com/q/GITHUB-2-01.jpg)
 
 
 ### Hi there 👋, I'm Al Aowshad Himel
