@@ -52,7 +52,7 @@ I stay ahead of the curve by continuously learning and adapting to industry tren
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=github,ae,androidstudio,angular,autocad,bash,blender,bootstrap,c,cs,css,discord,django,dotnet,eclipse,figma,firebase,flutter,fortran,git,html,idea,ai,instagram,java,js,jquery,kotlin,laravel,latex,linkedin,linux,mongodb,mysql,nodejs,ps,php,pr,py,react,redux,stackoverflow,swift,sketchup,twitter,visualstudio,vscode,wordpress,xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,ae,androidstudio,bash,c,css,django,figma,git,html,ai,java,latex,mysql,nodejs,react,visualstudio,vscode,wordpress,xd)](https://skillicons.dev)
 
 
 ![My GitHub Language Stats](https://stats-of-aowshad-m7vo.vercel.app/api/top-langs/?username=aowshad&langs_count=5&theme=tokyonight)
