@@ -4,7 +4,7 @@
 
 
 
-### Hi there 👋, I'm Al Aowshad Himel
+### Hi there 👋, I'm Al Aowshad Himel from <img src="assets/bangladesh.png" width="18"/> Bangladesh
 #### I'm a Product Designer
 
 
