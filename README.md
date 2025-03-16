@@ -37,6 +37,7 @@ I stay ahead of the curve by continuously learning and adapting to industry tren
 
 [![My Skills](https://skillicons.dev/icons?i=figma,ai,ps,ae,xd,androidstudio,webflow,c,html,css,java,mysql,react,vscode,wordpress)](https://skillicons.dev)
 
+<h3 align="left">📈 GitHub Stats:</h3>
 
 ![My GitHub Language Stats](https://stats-of-aowshad-m7vo.vercel.app/api/top-langs/?username=aowshad&langs_count=5&theme=tokyonight)
 
