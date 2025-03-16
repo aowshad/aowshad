@@ -15,7 +15,7 @@ My approach to Product Design is deeply rooted in user research, wireframing, pr
 I stay ahead of the curve by continuously learning and adapting to industry trends, ensuring that my design approach remains innovative and user-centered.
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">👀 Connect with me:</h3>
 <p align="left">
 <a href="https://www.behance.net/alaowahadhimel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="alaowahadhimel" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aowshad-himel-65394a1a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aowshad-himel-65394a1a1" height="30" width="40" /></a>
@@ -33,7 +33,7 @@ I stay ahead of the curve by continuously learning and adapting to industry tren
 </p>
 
 
-<h3 align="left">🔧 Technologies & Tools</h3>
+<h3 align="left">🔧 Technologies & Tools: </h3>
 
 [![My Skills](https://skillicons.dev/icons?i=figma,ai,ps,ae,xd,androidstudio,webflow,c,html,css,java,mysql,react,vscode,wordpress)](https://skillicons.dev)
 
