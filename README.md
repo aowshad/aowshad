@@ -4,7 +4,7 @@
 
 
 
-### Hi there <img src="assets/hello.gif" width="28px" alt="hi">, I'm Al Aowshad Himel from <img src="assets/bangladesh.png" width="18"/> Bangladesh
+### Hi there <img src="assets/hello.gif" width="28px" alt="hi"> I'm Al Aowshad Himel from <img src="assets/bangladesh.png" width="18"/> Bangladesh
 #### I'm a Product Designer
 
 
