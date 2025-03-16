@@ -33,7 +33,7 @@ I stay ahead of the curve by continuously learning and adapting to industry tren
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🔧 Technologies & Tools</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=figma,ai,ps,ae,xd,androidstudio,webflow,c,html,css,java,mysql,react,vscode,wordpress)](https://skillicons.dev)
 
