@@ -33,18 +33,6 @@ I stay ahead of the curve by continuously learning and adapting to industry tren
 </p>
 
 
-
-
-
-
-<h3 align="left">Github Trophies:</h3>
-
-<p align="left"> 
- 
-![trophy](https://github-profile-trophy.vercel.app/?username=aowshad&theme=onedark)
-</p>
-
-
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=figma,ai,ps,ae,xd,androidstudio,webflow,c,html,css,django,java,mysql,react,vscode,wordpress)](https://skillicons.dev)
