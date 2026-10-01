@@ -37,7 +37,7 @@ Research, user flows, information architecture, product thinking, and turning bu
 Scalable components, patterns, interaction states, and consistent product experiences.
 
 **E-commerce & SaaS**  
-Design is not art, design solves problems and serves a purpose. It is objective, so it doesn’t have to look beautiful it just has to work.
+Designing complex merchant-facing tools, customization workflows, dashboards, and customer-facing experiences.
 
 ---
 
@@ -58,7 +58,7 @@ Design is not art, design solves problems and serves a purpose. It is objective,
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
 ### Product Design
 
@@ -69,7 +69,7 @@ Design is not art, design solves problems and serves a purpose. It is objective,
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
 ### AI-assisted Design & Development
 
@@ -79,10 +79,8 @@ Design is not art, design solves problems and serves a purpose. It is objective,
 [![Figma Make](https://img.shields.io/badge/Figma%20Make-000000?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
 
 </td>
-</tr>
 
-<tr>
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
 ### Front-end & Prototyping
 
@@ -92,8 +90,10 @@ Design is not art, design solves problems and serves a purpose. It is objective,
 [![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)](https://react.dev/)
 
 </td>
+</tr>
 
-<td width="50%" valign="top">
+<tr>
+<td width="33.33%" valign="top">
 
 ### Build & Ship
 
@@ -104,10 +104,8 @@ Design is not art, design solves problems and serves a purpose. It is objective,
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/)
 
 </td>
-</tr>
 
-<tr>
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
 ### Web & Workflow
 
@@ -118,7 +116,7 @@ Design is not art, design solves problems and serves a purpose. It is objective,
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33.33%" valign="top">
 
 ### How I Work
 
@@ -127,12 +125,13 @@ Design is not art, design solves problems and serves a purpose. It is objective,
 </td>
 </tr>
 </table>
+
 ---
 
 ## Design philosophy
 
-> **Good design isn't about adding more.  
-> It's about making the right things obvious.**
+> **Design is not art, design solves problems and serves a purpose.  
+> It is objective, so it doesn’t have to look beautiful it just has to work.**
 
 I believe strong product design should be:
 
