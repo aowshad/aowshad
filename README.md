@@ -1,43 +1,158 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aowshad&label=Profile%20views&color=0e75b6&style=flat" alt="aowshad" />
-</p>
+<h1 align="left">Hi <img src="assets/hello.gif" width="28px" alt="hi"> I'm Aowshad <img src="assets/bangladesh.png" width="18"/></h1>
 
-Hi there <img src="assets/hello.gif" width="28px" alt="hi"> I'm Al Aowshad Himel from <img src="assets/bangladesh.png" width="18"/> Bangladesh
-
-I'm a Product Designer
-
-I create products that genuinely connect with users and drive business success. With expertise in e-commerce, SaaS, startups, Shopify apps, and branding, I specialize in designing seamless digital experiences that blend aesthetics with functionality.
-
-My approach to Product Design is deeply rooted in user research, wireframing, prototyping, and usability testing, ensuring every design decision is backed by data and user behavior insights. Whether it's a mobile app, website, or dashboard interface, I focus on delivering solutions that are visually compelling, intuitive, and scalable.
-
-I stay ahead of the curve by continuously learning and adapting to industry trends, ensuring that my design approach remains innovative and user-centered.
-
-<h3 align="left">👀 Connect with me:</h3>
 
 <p align="left">
-  <a href="https://www.behance.net/alaowahadhimel" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="alaowahadhimel" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/aowshad-himel-65394a1a1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aowshad-himel-65394a1a1" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/alaowshadhimel00" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alaowshadhimel00" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/_.alaowshad._" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.alaowshad._" height="30" width="40" />
-  </a>
-  <a href="https://dribbble.com/al_aowshad_himel" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="al_aowshad_himel" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/@aowshad4130" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aowshad4130" height="30" width="40" />
-  </a>
+  <strong>Product Design Engineer</strong> focused on building clear, useful, and commercially successful digital products.
 </p>
 
-<h3 align="left">🔧 Technologies & Tools:</h3>
+<p align="left">
+  I design experiences across <strong>SaaS, e-commerce, Shopify, and digital products</strong> - from early product discovery and UX strategy to interaction design and polished interfaces.
+</p>
 
+<p align="left">
+  My work sits at the intersection of <strong>user needs, business goals, and technology</strong>. I care about understanding the problem before designing the solution, simplifying complex workflows, and creating products that feel intuitive from the first interaction.
+</p>
 
+<p align="left">
+  <a href="https://www.behance.net/alaowahadhimel">Behance</a>
+  &nbsp;·&nbsp;
+  <a href="https://dribbble.com/al_aowshad_himel">Dribbble</a>
+  &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/aowshad-himel-65394a1a1">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://instagram.com/_.alaowshad._">Instagram</a>
+</p>
 
-<h3 align="left">📈 GitHub Stats:</h3>
+---
 
+## What I do
+
+**Product Design**  
+End-to-end product design, from problem definition and discovery to final UI and interaction design.
+
+**UX & Product Strategy**  
+Research, user flows, information architecture, product thinking, and turning business requirements into usable experiences.
+
+**Design Systems**  
+Scalable components, patterns, interaction states, and consistent product experiences.
+
+**E-commerce & SaaS**  
+Design is not art, design solves problems and serves a purpose. It is objective, so it doesn’t have to look beautiful it just has to work.
+
+---
+
+## Currently focused on
+
+- Product discovery & UX research
+- Product strategy
+- UX architecture & information architecture
+- Interaction design
+- Design systems
+- AI-assisted product design
+- Prototyping and front-end experimentation
+- Building better bridges between design and engineering
+
+---
+
+## Tools & Stack
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### Product Design
+
+[![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
+[![Illustrator](https://img.shields.io/badge/Illustrator-000000?style=flat-square&logo=adobeillustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
+[![Photoshop](https://img.shields.io/badge/Photoshop-000000?style=flat-square&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
+[![After Effects](https://img.shields.io/badge/After%20Effects-000000?style=flat-square&logo=adobeaftereffects&logoColor=white)](https://www.adobe.com/products/aftereffects.html)
+
+</td>
+
+<td width="50%" valign="top">
+
+### AI-assisted Design & Development
+
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-000000?style=flat-square&logo=claude&logoColor=white)](https://www.anthropic.com/)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=flat-square&logo=openai&logoColor=white)](https://chatgpt.com/)
+[![Gemini](https://img.shields.io/badge/Gemini-000000?style=flat-square&logo=googlegemini&logoColor=white)](https://gemini.google.com/)
+[![Figma Make](https://img.shields.io/badge/Figma%20Make-000000?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Front-end & Prototyping
+
+[![HTML](https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)](https://react.dev/)
+
+</td>
+
+<td width="50%" valign="top">
+
+### Build & Ship
+
+[![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Web & Workflow
+
+[![Webflow](https://img.shields.io/badge/Webflow-000000?style=flat-square&logo=webflow&logoColor=white)](https://webflow.com/)
+[![WordPress](https://img.shields.io/badge/WordPress-000000?style=flat-square&logo=wordpress&logoColor=white)](https://wordpress.org/)
+[![ClickUp](https://img.shields.io/badge/ClickUp-000000?style=flat-square&logo=clickup&logoColor=white)](https://clickup.com/)
+[![Slack](https://img.shields.io/badge/Slack-000000?style=flat-square&logo=slack&logoColor=white)](https://slack.com/)
+
+</td>
+
+<td width="50%" valign="top">
+
+### How I Work
+
+**Design → Explore → Prototype → Build → Ship**
+
+</td>
+</tr>
+</table>
+---
+
+## Design philosophy
+
+> **Good design isn't about adding more.  
+> It's about making the right things obvious.**
+
+I believe strong product design should be:
+
+- **Useful** — solves a real problem
+- **Clear** — reduces cognitive load
+- **Consistent** — behaves predictably
+- **Beautiful** — creates confidence and delight
+- **Scalable** — works as the product grows
+
+---
+
+## GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=aowshad&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aowshad&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages" />
+</p>
+
+---
+
+<p align="center">
+  <sub>Designing products. Exploring technology. Learning continuously.</sub>
+</p>
