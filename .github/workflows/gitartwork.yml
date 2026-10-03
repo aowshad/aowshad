@@ -22,6 +22,19 @@ jobs:
           user_name: aowshad
           text: AOWSHAD
 
+      - name: Remove generator footer
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          path = Path("gitartwork.svg")
+          svg = path.read_text()
+          credit = '<a href="https://github.com/jasineri/gitartwork"><text x="24" y="139" font-size="0.6em" fill="blue">Get your own gitartwork on jasineri/gitartwork</text></a>'
+          if credit not in svg:
+              raise SystemExit("Expected Gitartwork footer was not found")
+          path.write_text(svg.replace(credit, ""))
+          PY
+
       - uses: jasineri/simple-push-action@v2
         with:
           file_pattern: gitartwork.svg
