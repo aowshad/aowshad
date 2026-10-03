@@ -1,7 +1,7 @@
 <h1 align="left">Hi <img src="assets/hello.gif" width="28px" alt="hi"> I'm Aowshad <img src="assets/bangladesh.png" width="18"/></h1>
 
 <p align="left">
-  <img src="gitartwork.svg" width="100%" alt="Aowshad animated contribution graph" />
+  <img src="gitartwork.svg?v=credit-removed" width="100%" alt="Aowshad animated contribution graph" />
 </p>
 
 <p align="left">
