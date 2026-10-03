@@ -1,5 +1,8 @@
 <h1 align="left">Hi <img src="assets/hello.gif" width="28px" alt="hi"> I'm Aowshad <img src="assets/bangladesh.png" width="18"/></h1>
 
+<p align="left">
+  <img src="gitartwork.svg" width="100%" alt="Aowshad animated contribution graph" />
+</p>
 
 <p align="left">
   <strong>Product Design Engineer</strong> focused on building clear, useful, and commercially successful digital products.
