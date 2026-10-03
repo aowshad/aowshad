@@ -1,0 +1,27 @@
+name: Generate Gitartwork
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - gitartwork.svg
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: Make Gitartwork SVG
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: jasineri/gitartwork@v1
+        with:
+          user_name: aowshad
+          text: AOWSHAD
+
+      - uses: jasineri/simple-push-action@v2
+        with:
+          file_pattern: gitartwork.svg
