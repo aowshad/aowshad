@@ -48,7 +48,7 @@ Designing complex merchant-facing tools, customization workflows, dashboards, an
 
 - Product discovery & UX research
 - Product strategy
-- UX architecture & information architecture
+- UX architecture & information architecture (IA)
 - Interaction design
 - Design systems
 - AI-assisted product design
