@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  I design experiences across <strong>SaaS, e-commerce, Shopify, and digital products</strong> - from early product discovery and UX strategy to interaction design and polished interfaces.
+  My design experiences across <strong>SaaS, e-commerce, Shopify, and digital products</strong> - from early product discovery and UX strategy to interaction design and polished interfaces.
 </p>
 
 <p align="left">
