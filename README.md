@@ -149,8 +149,8 @@ I believe strong product design should be:
 ## GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aowshad&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aowshad&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=aowshad&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165" alt="GitHub statistics" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aowshad&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages" />
 </p>
 
 ---
