@@ -52,7 +52,7 @@ Designing complex merchant-facing tools, customization workflows, dashboards, an
 - Interaction design
 - Design systems
 - AI-assisted product design
-- Prototyping and front-end experimentation
+- Prototyping and front-end development
 - Building better bridges between design and engineering
 
 ---
